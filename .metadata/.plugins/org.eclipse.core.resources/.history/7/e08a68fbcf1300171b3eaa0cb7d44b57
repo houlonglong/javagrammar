@@ -1,0 +1,6 @@
+package demo14;
+
+public class Person {
+	int age;
+	float heigt;
+}
